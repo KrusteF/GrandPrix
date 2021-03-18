@@ -1,2 +1,0 @@
-# GrandPrix
- GrandPrix - VTU
