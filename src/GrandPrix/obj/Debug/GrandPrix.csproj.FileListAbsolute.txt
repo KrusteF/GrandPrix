@@ -1,0 +1,6 @@
+C:\github\GrandPrix\GrandPrix\bin\Debug\GrandPrix.exe
+C:\github\GrandPrix\GrandPrix\bin\Debug\GrandPrix.pdb
+C:\github\GrandPrix\GrandPrix\obj\Debug\GrandPrix.csprojAssemblyReference.cache
+C:\github\GrandPrix\GrandPrix\obj\Debug\GrandPrix.csproj.CoreCompileInputs.cache
+C:\github\GrandPrix\GrandPrix\obj\Debug\GrandPrix.exe
+C:\github\GrandPrix\GrandPrix\obj\Debug\GrandPrix.pdb
